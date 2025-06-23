@@ -1,0 +1,22 @@
+### Footprint positions - created on 2025-06-17T09:31:26-0700 ###
+### Printed by KiCad version 9.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val           Package                PosX       PosY       Rot  Side
+J1        Conn_Coaxial  031532951RFX        63.5000   -47.6250    0.0000  top
+J2        Conn_Coaxial  031532951RFX        88.9000   -47.6250    0.0000  top
+J3        Conn_Coaxial  031532951RFX       114.3000   -47.6250    0.0000  top
+J4        Conn_Coaxial  031532951RFX       139.7000   -47.6250    0.0000  top
+J5        Conn_Coaxial  031532951RFX       165.1000   -47.6250    0.0000  top
+J6        Conn_Coaxial  031532951RFX       190.5000   -47.6250    0.0000  top
+J7        Conn_Coaxial  031532951RFX       215.9000   -47.6250    0.0000  top
+J8        Conn_Coaxial  031532951RFX       241.3000   -47.6250    0.0000  top
+J9        Conn_Coaxial  031532951RFX       266.7000   -47.6250    0.0000  top
+J10       Conn_Coaxial  031532951RFX       292.1000   -47.6250    0.0000  top
+J11       Conn_Coaxial  031532951RFX       317.5000   -47.6250    0.0000  top
+J12       Conn_Coaxial  031532951RFX       342.9000   -47.6250    0.0000  top
+J13       Conn_Coaxial  031532951RFX       368.3000   -47.6250    0.0000  top
+J14       Conn_Coaxial  031532951RFX       393.7000   -47.6250    0.0000  top
+J15       Conn_Coaxial  031532951RFX       419.1000   -47.6250    0.0000  top
+J16       Conn_Coaxial  031532951RFX       444.5000   -47.6250    0.0000  top
+## End
